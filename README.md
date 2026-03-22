@@ -125,12 +125,6 @@ personal-loan-prediction/
 ├── 📂 notebooks/
 │   └── loan_prediction.ipynb          # Main analysis notebook
 │
-├── 📂 images/
-│   ├── confusion_matrix_lr.png
-│   ├── confusion_matrix_dt.png
-│   ├── roc_curve.png
-│   └── feature_importance.png
-│
 ├── requirements.txt
 └── README.md
 ```
