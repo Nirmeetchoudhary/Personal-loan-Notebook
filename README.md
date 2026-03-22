@@ -1,6 +1,41 @@
 # Personal-loan-Notebook
 
 
+
+# Model image
+<img width="502" height="521" alt="image" src="https://github.com/user-attachments/assets/75edca32-f85b-412c-a1e5-b530a142a007" />
+
+## Data Set
+
+- **ID**: Customer ID  
+- **Age**: Customer’s age in completed years  
+- **Experience**: Number of years of professional experience  
+- **Income**: Annual income of the customer (in thousand dollars)  
+- **ZIP Code**: Home address ZIP code  
+- **Family**: Family size of the customer  
+- **CCAvg**: Average spending on credit cards per month (in thousand dollars)  
+- **Education**: Education level  
+  - 1: Undergrad  
+  - 2: Graduate  
+  - 3: Advanced / Professional  
+- **Mortgage**: Value of house mortgage, if any (in thousand dollars)  
+- **Personal_Loan**: Whether the customer accepted the personal loan offered in the last campaign  
+- **Securities_Account**: Whether the customer has a securities account with the bank  
+- **CD_Account**: Whether the customer has a certificate of deposit (CD) account with the bank  
+- **Online**: Whether the customer uses internet banking facilities  
+- **CreditCard**: Whether the customer uses a credit card issued by another bank (excluding All Life Bank)  
+
+---
+
+## Problem Statement
+
+- Predict whether a liability customer will buy a personal loan or not  
+- Identify the most significant variables influencing the decision  
+- Determine which customer segments should be targeted more  
+- Analyze whether **age** impacts a customer’s likelihood of taking a loan  
+- Examine whether people with lower income are more likely to borrow loans  
+
+
 # 🏦 Personal Loan Prediction
 > Predicting whether a liability customer will accept a personal loan offer using **Logistic Regression** and **Decision Tree** classifiers.
 
